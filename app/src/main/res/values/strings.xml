@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RaschetKg</string>
+    <string name="title_home">Сахар</string>
+    <string name="title_dashboard">Мука</string>
+    <string name="title_notifications">Картошка</string>
+    <string name="cost">         Введите сколько она стоит</string>
+    <string name="kg">        Введите сколько кг сахара у вас</string>
+    <string name="remainder">      Введите скок кг осталось</string>
+</resources>
